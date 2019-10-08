@@ -1,3 +1,4 @@
+TEST
 ﻿@echo off
 
 echo Backup script for EDV Hauptmann database
